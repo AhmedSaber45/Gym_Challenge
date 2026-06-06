@@ -1,6 +1,7 @@
 {
   "cellStates": {
-    "0": "green"
+    "0": "green",
+    "1": "red"
   },
   "startDate": "2026-06-07",
   "isDateLock": false,
