@@ -8,5 +8,13 @@
   },
   "startDate": "2026-06-07",
   "isDateLock": false,
-  "history": []
+  "history": [
+    {
+      "startDate": "2026-06-07",
+      "endDate": "2026-06-07",
+      "greenCount": 3,
+      "redCount": 2,
+      "success": false
+    }
+  ]
 }
